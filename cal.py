@@ -10,7 +10,7 @@ print("[3]MULTIPLICATION")
 print("[4]DIVISION")
 print("[5]MODULUS")
 print("[6]FLOOR DIVISION")
-print("[7]EXPONET")
+print("[7]EXPONENT")
 
 pick = input("ENTER : ")
 
